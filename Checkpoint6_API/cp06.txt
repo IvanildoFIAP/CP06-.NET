@@ -1,0 +1,21 @@
+========================================
+CHECKPOINT 6 - FIAP TDS
+Programação de API com BD, Swagger e Testes Unitários
+Professor: Dr. Marcel Stefan Wagner
+========================================
+
+INTEGRANTES DO GRUPO:
+
+1. Ivanildo Alfredo da Silva Filho - RM: 560049
+2. Jennyfer Lee - RM: RM: 561020
+3. Leticia Sousa Prado Silva - RM: 559258
+
+========================================
+LINK DO GITHUB:
+https://github.com/IvanildoFIAP/CP06-.NET.git
+========================================
+
+========================================
+LINK DO VIDEO:
+https://youtu.be/ZCQ9HYX-8Iw
+========================================
